@@ -5,7 +5,7 @@ This is a small extension module for the FHEM Home-Control software. It enables 
 ## Install to FHEM
 Run the following commands to add this repository to your FHEM setup:
 ```
-update add https://raw.githubusercontent.com/Saharel001/Tradfri-FHEM/src/controls_tradfri.txt
+update add https://raw.githubusercontent.com/Saharel001/Tradfri-FHEM/master/src/controls_tradfri.txt
 update
 shutdown restart
 ```
